@@ -43,4 +43,6 @@ alias la='ls -a'
 source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 export PATH=$PATH:/usr/bin
+ssh-agent
+ssh-add
 
